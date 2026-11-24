@@ -54,8 +54,9 @@ Refer to the diagrams in the full guide for orientation, where to apply pressure
 OpenZilo-Hardware/
 ├── README.md               # English
 ├── README.zh-CN.md          # Simplified Chinese
-├── LICENSE                 # Hardware: CERN-OHL-W-2.0
+├── LICENSE                 # Copy of the hardware license
 ├── LICENSES/
+│   ├── CERN-OHL-W-2.0.txt   # Hardware: CERN-OHL-W-2.0
 │   └── MPL-2.0.txt          # Documentation: MPL-2.0
 ├── models/
 │   └── 6_asm.stp … 14_asm.stp
@@ -69,6 +70,6 @@ OpenZilo-Hardware/
 
 This repository follows the OpenZilo main project's licensing:
 
-- Hardware design files in `models/` use [CERN-OHL-W-2.0](LICENSE).
+- Hardware design files in `models/` use [CERN-OHL-W-2.0](LICENSES/CERN-OHL-W-2.0.txt). The same text is also available in the root [`LICENSE`](LICENSE).
 - Documentation, including the READMEs, assembly guides, and illustrations, uses [MPL-2.0](LICENSES/MPL-2.0.txt).
 - The OpenZilo name and marks belong to their respective owners.
