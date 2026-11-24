@@ -54,8 +54,9 @@ OpenZilo 戒指的机械装配模型与图文组装指南。
 OpenZilo-Hardware/
 ├── README.md               # English
 ├── README.zh-CN.md          # 简体中文
-├── LICENSE                 # 硬件设计：CERN-OHL-W-2.0
+├── LICENSE                 # 硬件许可证副本
 ├── LICENSES/
+│   ├── CERN-OHL-W-2.0.txt   # 硬件设计：CERN-OHL-W-2.0
 │   └── MPL-2.0.txt          # 文档：MPL-2.0
 ├── models/
 │   └── 6_asm.stp … 14_asm.stp
@@ -69,6 +70,6 @@ OpenZilo-Hardware/
 
 沿用 OpenZilo 主项目的许可证约定：
 
-- `models/` 中的硬件设计文件采用 [CERN-OHL-W-2.0](LICENSE)。
+- `models/` 中的硬件设计文件采用 [CERN-OHL-W-2.0](LICENSES/CERN-OHL-W-2.0.txt)，根目录的 [`LICENSE`](LICENSE) 也保留同一份全文。
 - README、组装说明与示意图等文档采用 [MPL-2.0](LICENSES/MPL-2.0.txt)。
 - OpenZilo 品牌与标识归各自权利人所有。
