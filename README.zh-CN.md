@@ -66,6 +66,15 @@ OpenZilo-Hardware/
     └── assets/              # 中英文装配图与细节图
 ```
 
+## 社区
+
+- 微信开发者群
+
+  <img src="docs/assets/wechat-group.png" alt="OpenZilo 开发者微信群二维码" width="160">
+
+- [Discord](https://discord.gg/pTJZ3RMHA5)
+- [GitHub Discussions](https://github.com/ziloai/OpenZilo/discussions)
+
 ## 许可证
 
 沿用 OpenZilo 主项目的许可证约定：

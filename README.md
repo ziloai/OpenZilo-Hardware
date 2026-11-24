@@ -66,6 +66,15 @@ OpenZilo-Hardware/
     └── assets/              # Assembly and detail images in both languages
 ```
 
+## Community
+
+- WeChat developer group
+
+  <img src="docs/assets/wechat-group.png" alt="OpenZilo WeChat developer group QR code" width="160">
+
+- [Discord](https://discord.gg/pTJZ3RMHA5)
+- [GitHub Discussions](https://github.com/ziloai/OpenZilo/discussions)
+
 ## License
 
 This repository follows the OpenZilo main project's licensing:
